@@ -4,8 +4,8 @@
     margin: 0;
 }
 body{
-    background: rgb(2,0,36);
-    background: linear-gradient(277deg, rgba(2,0,36,1) 0%, rgba(59,28,85,1) 0%, rgba(103,117,117,0.916579131652661) 0%, rgba(0,212,255,1) 100%);
+    background: rgb(41,128,185);
+    background: linear-gradient(90deg, rgba(41,128,185,1) 0%, rgba(109,213,250,1) 46%);
 }
 header{
     margin-top:10px;
